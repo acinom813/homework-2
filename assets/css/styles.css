@@ -73,6 +73,10 @@ main {
 
 /* Styling for portfolio.html*/
 
+.post-heading{
+  padding-top: 14px;
+}
+
 .card {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
