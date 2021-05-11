@@ -25,7 +25,7 @@ html {
  padding-left: 20px; 
 }  
 .navbar-dark, .nav-link.active, .navbar-nav,
-.navbar-dark, .nav-link, .navbar-nav: hover{
+.navbar-dark, .nav-link, .navbar-nav, hover{
   color: #1ebba3;
 }
 .heading-content {
@@ -57,7 +57,6 @@ html {
 
 }
 
-}
 .logo {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
