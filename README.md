@@ -7,7 +7,7 @@ The purpose of this task was to create a fully functional deployed application. 
 
 ## Table of Contents
 
- *[Installation](#installation)
+ *[Installation](#installation),
  *[Usage](#usage)
  *[License](#license) 
  *[Contributing](#contributing) 
